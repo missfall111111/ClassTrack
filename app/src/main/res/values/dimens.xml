@@ -1,0 +1,19 @@
+<resources>
+<!--    <dimen name="padding_small">8dp</dimen>-->
+<!--    <dimen name="padding_medium">16dp</dimen>-->
+<!--    <dimen name="image_size">64dp</dimen>-->
+    <dimen name="grid_0_25">1.5fdp</dimen>
+    <dimen name="grid_0_5">3dp</dimen>
+    <dimen name="grid_1">6dp</dimen>
+    <dimen name="grid_1_5">9dp</dimen>
+    <dimen name="grid_2">12dp</dimen>
+    <dimen name="grid_2_5">15dp</dimen>
+    <dimen name="grid_3">18dp</dimen>
+    <dimen name="grid_3_5">21dp</dimen>
+    <dimen name="grid_4">24dp</dimen>
+    <dimen name="grid_4_5">27dp</dimen>
+    <dimen name="grid_5">30dp</dimen>
+    <dimen name="grid_5_5">33dp</dimen>
+    <dimen name="grid_6">36dp</dimen>
+    <dimen name="plane_0">0dp</dimen>
+</resources>
