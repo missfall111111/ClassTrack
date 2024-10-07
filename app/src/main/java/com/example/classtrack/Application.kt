@@ -25,7 +25,7 @@ import dagger.hilt.android.HiltAndroidApp
 class ClassTrackApp:Application() {
     override fun onCreate() {
         super.onCreate()
-        Bmob.initialize(this,"66733bc151b1caa55bbc3bff0e64266b")
+        Bmob.initialize(this,"yours app key")
 
 
 
@@ -55,8 +55,8 @@ class ClassTrackApp:Application() {
 
         val pushInitConfig = PushInitConfig.Builder()
             .application(this)
-            .appKey("334958991")    //请填写你自己的appKey
-            .appSecret("495c886c050e4b0681915aeaefa861f8")    //请填写你自己的appSecret
+            .appKey("*")    //请填写你自己的appKey
+            .appSecret("*")    //请填写你自己的appSecret
             .build()
 
 
